@@ -1,0 +1,15 @@
+{
+  "name": "terra-web-project",
+  "version": "1.0.0",
+  "description": "sample web project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@anchor-protocol/anchor.js": "^1.0.1",
+    "@terra-money/terra.js": "^1.7.0"
+  }
+}
